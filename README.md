@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Saahil-Kumaar
-- 👀 I'm interested in -Data Analytics,
--                      -Data Visualisation
--                      -(Basically, Data Science stuff...).
+- 👀 I'm interested in Data Analytics,Data Visualisation (Basically, Data Science stuff...).
 - 🌱 Currently learning C, Java, Advanced Python.
 - 💞️ I’m looking to collaborate on Analyzing some real data.
 - 📫 You can reach me via my email - (sk7593277@gmail.com)
