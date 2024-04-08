@@ -1,3 +1,4 @@
+![logo](https://github.com/Saahil-Kumaar/Saahil-Kumaar/blob/main/Github_Banner_1.png)
 <h1 align="center">Hi 👋, I'm Sahil Kumar</h1>
 <h3 align="center">A passionate Data Analyst from India.</h3>
 
