@@ -29,4 +29,4 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saahil-Kumaar&theme=dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saahil-Kumaar&theme=dark)
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&layout=compact&theme=dark)
