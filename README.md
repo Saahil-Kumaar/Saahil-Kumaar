@@ -28,5 +28,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=saahil-kumaar&theme=dracula)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saahil-Kumaar&theme=dracula)
-![](https://quotes-github-readme.vercel.app/api?type=horizontal?type=vertical&theme=dracula)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saahil-Kumaar&theme=dracula)
