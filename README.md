@@ -29,3 +29,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saahil-kumaar&show_icons=true&locale=en" alt="saahil-kumaar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saahil-kumaar&" alt="saahil-kumaar" /></p>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saahil-Kumaar&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Saahil-Kumaar&theme=dracula) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saahil-Kumaar&theme=dracula) 
