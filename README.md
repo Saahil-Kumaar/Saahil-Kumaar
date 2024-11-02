@@ -29,4 +29,4 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saahil-Kumaar&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saahil-Kumaar&layout=compact&theme=dracula)
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal?type=vertical&theme=dracula)
