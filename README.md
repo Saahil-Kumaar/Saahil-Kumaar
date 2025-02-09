@@ -1,6 +1,6 @@
 ![logo](https://github.com/Saahil-Kumaar/Saahil-Kumaar/blob/main/Github_Banner_1.png)
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=1000&color=6FDA44&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Saahil+Kumaar;A+Student+%7C+Developer;Open-Source+Enthusiast+%7C+Problem+Solver;Let's+Build+Something+Amazing!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Tomorrow&size=30&duration=2800&pause=1000&color=ffffff&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Saahil+Kumaar;A+Student+%7C+Developer;Open-Source+Enthusiast+%7C+Problem+Solver;Let's+Build+Something+Amazing!" alt="Typing SVG" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saahil-kumaar&label=Profile%20views&color=0e75b6&style=flat" alt="saahil-kumaar" /> </p>
