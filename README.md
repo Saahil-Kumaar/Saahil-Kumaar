@@ -13,7 +13,7 @@
 
 - 💞️ I’m looking to collaborate on **Analyzing some real data.**
 
-- 📫 You can reach me via my email **sk7593277@gmail.com**
+- 📫 You can reach me via my email **sahill.kumaarr@gmail.com**
 
 - ⚡ Fun fact **I'm pretty fun to work with.**
 
